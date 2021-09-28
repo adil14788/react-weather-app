@@ -1,0 +1,40 @@
+.gases{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    position: absolute;
+    top:170px;
+    right: 100px;
+
+}
+.gas-container{
+    width:100px;
+    height: 70px;
+    background: rgba(14,38,50,0.7);
+    color: white;
+    padding:10px;
+    border-radius:10px;
+    margin-left: 5px;
+    /* display: flex; */
+    text-align: center;
+    }
+.gas-container span{
+    display:block;
+}
+
+.air-index{
+    width:350px;
+    height:150px;
+    border-radius:10px;
+    background-color:transparent;
+    padding:10px;
+    position:absolute;
+    top:270px;
+    right:330px;
+}
+
+#heading{
+    position:absolute;
+    top:125px;
+    right:435px;
+}

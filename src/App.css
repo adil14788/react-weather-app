@@ -1,0 +1,13 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+.app-body{
+    height: 100vh;
+    background-image:url('./Background.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
